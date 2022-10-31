@@ -1,2 +1,3 @@
-# intro-to-programming-using-python
-an introduction to programming using python language
+# Introduction to programming using python Language
+This course is designed for non programmers to getting started programming
+using python language
